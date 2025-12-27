@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-27T20:02:38 IST" name="Suite" finished-at="2025-12-27T20:03:40 IST" duration-ms="61759">
+    <groups>
+    </groups>
+    <test started-at="2025-12-27T20:02:38 IST" name="Test" finished-at="2025-12-27T20:03:40 IST" duration-ms="61759">
+      <class name="testpkg.KanchiLoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testpkg.KanchiLoginTest@7c6908d7]" started-at="2025-12-27T20:02:38 IST" name="setup" finished-at="2025-12-27T20:02:47 IST" duration-ms="8219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="mthd()[pri:0, instance:testpkg.KanchiLoginTest@7c6908d7]" started-at="2025-12-27T20:02:47 IST" name="mthd" finished-at="2025-12-27T20:02:47 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="datadrivenmethod()[pri:1, instance:testpkg.KanchiLoginTest@7c6908d7]" started-at="2025-12-27T20:02:47 IST" name="datadrivenmethod" finished-at="2025-12-27T20:03:08 IST" duration-ms="21710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datadrivenmethod -->
+        <test-method is-config="true" signature="mthd()[pri:0, instance:testpkg.KanchiLoginTest@7c6908d7]" started-at="2025-12-27T20:03:09 IST" name="mthd" finished-at="2025-12-27T20:03:09 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="login()[pri:2, instance:testpkg.KanchiLoginTest@7c6908d7]" started-at="2025-12-27T20:03:09 IST" name="login" finished-at="2025-12-27T20:03:10 IST" duration-ms="1428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- testpkg.KanchiLoginTest -->
+      <class name="testpkg.PaymentTest">
+        <test-method is-config="true" signature="mthd()[pri:0, instance:testpkg.PaymentTest@302552ec]" started-at="2025-12-27T20:03:36 IST" name="mthd" finished-at="2025-12-27T20:03:36 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="screenshot()[pri:0, instance:testpkg.PaymentTest@302552ec]" started-at="2025-12-27T20:03:36 IST" name="screenshot" finished-at="2025-12-27T20:03:40 IST" duration-ms="3848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+      </class> <!-- testpkg.PaymentTest -->
+      <class name="testpkg.CartTest">
+        <test-method is-config="true" signature="mthd()[pri:0, instance:testpkg.CartTest@bcec361]" started-at="2025-12-27T20:03:21 IST" name="mthd" finished-at="2025-12-27T20:03:21 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="cart()[pri:1, instance:testpkg.CartTest@bcec361]" started-at="2025-12-27T20:03:21 IST" name="cart" finished-at="2025-12-27T20:03:21 IST" duration-ms="411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart -->
+        <test-method is-config="true" signature="mthd()[pri:0, instance:testpkg.CartTest@bcec361]" started-at="2025-12-27T20:03:21 IST" name="mthd" finished-at="2025-12-27T20:03:21 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="coupon()[pri:2, instance:testpkg.CartTest@bcec361]" started-at="2025-12-27T20:03:21 IST" name="coupon" finished-at="2025-12-27T20:03:25 IST" duration-ms="3354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- coupon -->
+        <test-method is-config="true" signature="mthd()[pri:0, instance:testpkg.CartTest@bcec361]" started-at="2025-12-27T20:03:25 IST" name="mthd" finished-at="2025-12-27T20:03:25 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="checkout()[pri:3, instance:testpkg.CartTest@bcec361]" started-at="2025-12-27T20:03:25 IST" name="checkout" finished-at="2025-12-27T20:03:27 IST" duration-ms="2451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+      </class> <!-- testpkg.CartTest -->
+      <class name="testpkg.ElementTest">
+        <test-method is-config="true" signature="mthd()[pri:0, instance:testpkg.ElementTest@4e08711f]" started-at="2025-12-27T20:03:10 IST" name="mthd" finished-at="2025-12-27T20:03:10 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="title()[pri:1, instance:testpkg.ElementTest@4e08711f]" started-at="2025-12-27T20:03:10 IST" name="title" finished-at="2025-12-27T20:03:10 IST" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+        <test-method is-config="true" signature="mthd()[pri:0, instance:testpkg.ElementTest@4e08711f]" started-at="2025-12-27T20:03:10 IST" name="mthd" finished-at="2025-12-27T20:03:10 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="eleshop()[pri:2, instance:testpkg.ElementTest@4e08711f]" started-at="2025-12-27T20:03:10 IST" name="eleshop" finished-at="2025-12-27T20:03:11 IST" duration-ms="1299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eleshop -->
+        <test-method is-config="true" signature="mthd()[pri:0, instance:testpkg.ElementTest@4e08711f]" started-at="2025-12-27T20:03:11 IST" name="mthd" finished-at="2025-12-27T20:03:11 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="dropk()[pri:3, instance:testpkg.ElementTest@4e08711f]" started-at="2025-12-27T20:03:11 IST" name="dropk" finished-at="2025-12-27T20:03:14 IST" duration-ms="3167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropk -->
+        <test-method is-config="true" signature="mthd()[pri:0, instance:testpkg.ElementTest@4e08711f]" started-at="2025-12-27T20:03:15 IST" name="mthd" finished-at="2025-12-27T20:03:15 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="kcart()[pri:4, instance:testpkg.ElementTest@4e08711f]" started-at="2025-12-27T20:03:15 IST" name="kcart" finished-at="2025-12-27T20:03:21 IST" duration-ms="6047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kcart -->
+        <test-method is-config="true" signature="mthd()[pri:0, instance:testpkg.ElementTest@4e08711f]" started-at="2025-12-27T20:03:21 IST" name="mthd" finished-at="2025-12-27T20:03:21 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="logo()[pri:5, instance:testpkg.ElementTest@4e08711f]" started-at="2025-12-27T20:03:21 IST" name="logo" finished-at="2025-12-27T20:03:21 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logo -->
+      </class> <!-- testpkg.ElementTest -->
+      <class name="testpkg.CheckoutTest">
+        <test-method is-config="true" signature="mthd()[pri:0, instance:testpkg.CheckoutTest@26794848]" started-at="2025-12-27T20:03:27 IST" name="mthd" finished-at="2025-12-27T20:03:27 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="entercoupon()[pri:1, instance:testpkg.CheckoutTest@26794848]" started-at="2025-12-27T20:03:27 IST" name="entercoupon" finished-at="2025-12-27T20:03:27 IST" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entercoupon -->
+        <test-method is-config="true" signature="mthd()[pri:0, instance:testpkg.CheckoutTest@26794848]" started-at="2025-12-27T20:03:27 IST" name="mthd" finished-at="2025-12-27T20:03:27 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="coupon()[pri:2, instance:testpkg.CheckoutTest@26794848]" started-at="2025-12-27T20:03:27 IST" name="coupon" finished-at="2025-12-27T20:03:31 IST" duration-ms="3186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- coupon -->
+        <test-method is-config="true" signature="mthd()[pri:0, instance:testpkg.CheckoutTest@26794848]" started-at="2025-12-27T20:03:31 IST" name="mthd" finished-at="2025-12-27T20:03:31 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="bill()[pri:3, instance:testpkg.CheckoutTest@26794848]" started-at="2025-12-27T20:03:31 IST" name="bill" finished-at="2025-12-27T20:03:36 IST" duration-ms="5041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bill -->
+        <test-method is-config="true" signature="mthd()[pri:0, instance:testpkg.CheckoutTest@26794848]" started-at="2025-12-27T20:03:36 IST" name="mthd" finished-at="2025-12-27T20:03:36 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mthd -->
+        <test-method signature="termsorder()[pri:4, instance:testpkg.CheckoutTest@26794848]" started-at="2025-12-27T20:03:36 IST" name="termsorder" finished-at="2025-12-27T20:03:36 IST" duration-ms="578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- termsorder -->
+      </class> <!-- testpkg.CheckoutTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
