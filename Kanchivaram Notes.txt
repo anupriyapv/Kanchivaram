@@ -1,0 +1,64 @@
+Workflow - Kanchivaram2
+
+
+basepkg
+	BaseClass
+		Chrome loading (incognito)
+		Window maximizing
+pagepkg
+	KanchiRegPage
+		Path locators (xpath, id, name)
+		PageFactory (@FindBy)
+		Button/element clicking
+		Value passing (sendkeys)
+		Url validation
+	KanchiLoginPage
+		Datadriven (Excel)
+		Link count
+	ElementPage
+		Title verification
+		Drop list
+		Logo display
+	CartPage
+		Thread sleep (delay)
+	CheckoutPage
+		Search field
+		Checkbox
+	PaymentPage
+		Screenshot
+
+testpkg
+	KanchiRegTest
+	KanchiLoginTest
+	ElementTest
+	CartTest
+	CheckoutTest
+	PaymentTest
+
+Utilities
+	ExcelUtils
+
+pom.xml (dependencies)
+Kanchi.xml (testng)
+Screenshot (folder)
+
+
+
+Features added
+
+Chrome loading (incognito)
+Window maximizing
+Path locators (xpath, id, name)
+PageFactory (@FindBy)
+Button/element clicking
+Value passing (sendkeys)
+Datadriven (Excel)
+Link count
+Title verification
+Drop list
+Logo display
+Url validation
+Thread sleep (delay)
+Search field
+Checkbox
+Screenshot
